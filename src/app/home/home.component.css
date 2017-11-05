@@ -2,3 +2,8 @@ tr.activeRow{
     background-color: darkblue;
     color: #fff;
 }
+
+.marginTB20{
+    margin-bottom: 20px;
+    margin-top:20px;
+}
